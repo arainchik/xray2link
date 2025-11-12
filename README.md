@@ -1,6 +1,6 @@
 # xray2link
 
-`xray2link` is a lightweight, command-line utility for Xray server administrators. It parses your `config.json` file to quickly generate client share links (VLESS, VMess, Trojan) and display them as ASCII QR codes directly in your terminal.
+`xray2link` is a lightweight, command-line utility for [Xray-core](https://github.com/xtls/xray-core) server administrators. It parses your `config.json` file to quickly generate client share links (VLESS, VMess, Trojan) and display them as ASCII QR codes directly in your terminal.
 
 This tool provides a simple, panel-free way to list all client emails and export their configurations, streamlining client management.
 
