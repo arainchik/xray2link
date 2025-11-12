@@ -63,7 +63,7 @@ vless://<your-uuid>@my.domain.com:443?type=tcp&security=xtls&flow=xtls-rprx-visi
 
 ### 3\. Generate a Share Link (QR Code)
 
-To display the share link as an ASCII QR code directly in your terminal, add the `-qrcode` flag.
+To display the share link as an ASCII QR code directly in your terminal, add the `--qrcode` flag.
 
 **Note:** This requires `pyqrcode` to be installed. If it is not installed, the script will print a warning and fall back to displaying the text URL.
 
