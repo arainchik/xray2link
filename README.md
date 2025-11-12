@@ -73,9 +73,8 @@ python3 xray2link.py /etc/xray/config.json my.domain.com client-1@email.com --qr
 
 **Example Output:**
 
-```
-<An ASCII QR code will be displayed here>
-```
+![An ASCII QR code](screenshot.png "Screenshot")
+
 
 ### 4\. Full Options
 
